@@ -9,8 +9,11 @@ import org.apache.commons.logging.LogFactory;
  * Created by gqy on 2019/7/22.
  */
 public class DataType {
+    static double pi = 3.14;
+
     public static void main(String[] args)
     {
+
         Log log = LogFactory.getLog(Logging.class);
         // byte
         log.info("基本类型：byte 二进制位数：" + Byte.SIZE);
