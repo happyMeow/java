@@ -38,7 +38,3 @@ public class Burrito {
         burrito2.menu();
     }
 }
-
-enum size{
-
-}
