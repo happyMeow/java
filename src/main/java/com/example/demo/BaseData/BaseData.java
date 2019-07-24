@@ -1,4 +1,4 @@
-package com.example.demo.DataType;
+package com.example.demo.BaseData;
 
 
 import com.example.demo.Logging.Logging;
@@ -8,7 +8,7 @@ import org.apache.commons.logging.LogFactory;
 /**
  * Created by gqy on 2019/7/22.
  */
-public class DataType {
+public class BaseData {
     public static void main(String[] args)
     {
         Log log = LogFactory.getLog(Logging.class);
